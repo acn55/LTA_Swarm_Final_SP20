@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/apriltag_demo.dir/example/apriltag_demo.c.o  -o apriltag_demo -Wl,-rpath,/home/pi/apriltags3-py/apriltags/lib: lib/libapriltag.so.3.0.0 -lpthread -lm 

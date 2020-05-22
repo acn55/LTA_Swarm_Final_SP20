@@ -1,0 +1,8 @@
+/home/pi/apriltags3-py/apriltags/CMakeFiles/install/strip.dir
+/home/pi/apriltags3-py/apriltags/CMakeFiles/install/local.dir
+/home/pi/apriltags3-py/apriltags/CMakeFiles/apriltag_demo.dir
+/home/pi/apriltags3-py/apriltags/CMakeFiles/install.dir
+/home/pi/apriltags3-py/apriltags/CMakeFiles/edit_cache.dir
+/home/pi/apriltags3-py/apriltags/CMakeFiles/apriltag.dir
+/home/pi/apriltags3-py/apriltags/CMakeFiles/rebuild_cache.dir
+/home/pi/apriltags3-py/apriltags/CMakeFiles/list_install_components.dir
